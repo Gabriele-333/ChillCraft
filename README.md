@@ -2,4 +2,5 @@
 Minecraft Modpack
 
 
-![ChillCraftLong](https://github.com/user-attachments/assets/d5e90bd1-6c3d-40a3-a40f-284d8b335212)
+
+![ChillCraftLong](https://github.com/user-attachments/assets/df0ba61c-fdc4-487e-91e4-ee95c8f404bd)
